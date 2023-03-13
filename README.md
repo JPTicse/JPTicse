@@ -58,7 +58,6 @@ Willing to learn new technologies, always supporting my team offering creative a
 
 ### Contributions in the last year:
 
-![Snake animation](https://github.com/jpticse/jpticse/blob/output/github-contribution-grid-snake.svg)
   
 <div align="center">
   <img src="https://gpvc.arturio.dev/jpticse"> 
